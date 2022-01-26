@@ -1,6 +1,6 @@
 # Project Roadmap
 
-#the 3P's as stated below were:
+(to run the notebook, please unpack the .zip file in the 1st place!)
 
 * **Proposal**: 
     * **MVP**: display MoM values of highest market cap cryptos and stocks in the past 3 years (2019-2021 as of today);
