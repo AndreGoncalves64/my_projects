@@ -4,7 +4,7 @@
  
 * **Step 1**: 
     * select data sources:
-        * [kaggle](https://www.kaggle.com/tencars/392-crypto-currency-pairs-at-minute-resolution) for cryptos  
+        * [kaggle](https://www.kaggle.com/tencars/392-crypto-currency-pairs-at-minute-resolution) - for cryptos  
         * [iexcloud](https://iexcloud.io/ ) - for stock market
         
 * **Step 2**: 
