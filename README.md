@@ -3,7 +3,7 @@
 **(to run the notebook, please unpack the .zip file in the 1st place!)**
 
 * **Proposal**: 
-    * **MVP**: display MoM values of highest market cap cryptos and stocks in the past 3 years (2019-2021 as of today);
+    * **MVP**: display MoM values of highest market cap cryptos and stocks in the past 3 years (2019-2021) as of Jan 2022;
     * **question**: is there a correlation between disruptive finance assets - cryptocurrency and traditional investment instruments - company stocks? 
     * **solution**: exploratory analysis on BTC+ETH and 5 out of the TOP10 companies (AAPL, AMZN, GOOGL, FB, TSLA) 
    
