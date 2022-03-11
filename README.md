@@ -17,7 +17,6 @@
         * growth and decrease in absolute values and percentage (%);
         * dinamic graphic interface - [plotly](https://plotly.com/python/plotly-express/) 
         
- * **Presentation**: 
-    * short 5-7min slideshow;
+
 
 ###################################################################################################################################################################
