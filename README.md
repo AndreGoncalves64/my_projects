@@ -8,7 +8,9 @@
         * [iexcloud](https://iexcloud.io/ ) - for stocks
         
 * **Step 2**: 
-    * data extraction (csv & API) and wrangling - Python and SQL
+    * data extraction for the past 3 years (2019-2021) as of Jan 2022:
+      *   CSV - for cryptos 
+      *   API - for stocks 
     
 * **Step 3**: 
     * create dynamic graphic interface with relevant data:
