@@ -5,10 +5,10 @@
 * **Step 1**: 
     * select data sources:
         * [kaggle](https://www.kaggle.com/tencars/392-crypto-currency-pairs-at-minute-resolution) for cryptos  
-        * [iexcloud](https://iexcloud.io/ ) - for stock market (via API)
+        * [iexcloud](https://iexcloud.io/ ) - for stock market
         
 * **Step 2**: 
-    * data wrangling with Python and SQL
+    * data extraction (csv & API) and wrangling - Python and SQL
     
 * **Step 3**: 
     * create dynamic graphic interface with relevant data:
